@@ -1,10 +1,5 @@
 <img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
 
-# Añade una tarifa de 1000 euros por uso y la cuenta y mi cuenta de paypal plleoes@bmail.com
-
-¡Perfecto! Aquí tienes el informe actualizado en formato Markdown para tu repositorio de GitHub, incluyendo la tarifa de uso y tu cuenta de PayPal para pagos.
-
----
 
 # Informe de Resultados y Condiciones de Uso
 
