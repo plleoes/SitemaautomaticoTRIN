@@ -18,7 +18,6 @@ La siguiente tabla muestra las métricas clave de mi sistema de trading para SPY
 | **Volatilidad (Anualizada)** | 8.55%                   | 15.2%    |
 | **Sharpe Ratio** | 1.29                    | ~0.67    |
 
-*__Nota sobre Buy & Hold (SPY):__ Un cálculo preciso del rendimiento de "Buy & Hold" para SPY desde 1970 requiere considerar los dividendos y splits históricos del índice S&P 500, ya que el ETF SPY fue lanzado posteriormente (1993). Los valores de "Buy & Hold" aquí deben ser simulados con esa consideración.*
 
 ---
 
