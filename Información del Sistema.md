@@ -1,7 +1,7 @@
 <img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
 
 
-# Informe de Resultados desde 2008 y Condiciones de Uso
+# Informe de Resultados desde 2008 partiendo de 400 mil euros y Condiciones de Uso
 
 Este informe presenta los resultados del sistema cuantitativo aplicado sobre tres activos: **SPY (ETF)**, **IWM (ETF)** y **AUDJPY (Forex)**.
 **Para el uso de este sistema se requiere el pago de una tarifa de 1.000 euros por uso.**
