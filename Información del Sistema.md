@@ -1,6 +1,6 @@
 # Estrategia de Trading Cuantitativo: Análisis Comparativo de Rendimiento
 
-Este repositorio presenta un análisis detallado del rendimiento de una estrategia de trading cuantitativo aplicada a tres activos financieros distintos: **SPY (SPDR S&P 500 ETF Trust)**, **IWM (iShares Russell 2000 ETF)**, y el par de divisas **AUDJPY (Dólar Australiano / Yen Japonés)**. Todos los resultados se comparan con una estrategia simple de "Buy and Hold" (comprar y mantener), asumiendo un capital inicial de **$10,000** desde el **1 de enero de 2008** el cobro por su uso seria de 1000 euros/mes  con puesta en marcha incluida.
+Este repositorio presenta un análisis detallado del rendimiento de una estrategia de trading cuantitativo aplicada a tres activos financieros distintos: **SPY (SPDR S&P 500 ETF Trust)**, **IWM (iShares Russell 2000 ETF)**, y el par de divisas **AUDJPY (Dólar Australiano / Yen Japonés)**. Todos los resultados se comparan con una estrategia simple de "Buy and Hold" (comprar y mantener), asumiendo un capital inicial de **$10,000** desde el **1 de enero de 2008**. El cobro por su uso seria de 1000 euros/mes  con puesta en marcha incluida en la cuenta de paypal plleoes@gmail.com.
 
 ---
 
