@@ -60,7 +60,7 @@ Esta tabla detalla el desempeño de mi sistema de trading para el par de divisas
 ## Metodología y Período de Análisis
 
 * **Capital Inicial:** $10,000 para todas las simulaciones.
-* **Fecha de Inicio:** 1 de enero de 1970.
+* **Fecha de Inicio:** 1 de enero de 2008.
 * **Período de Backtesting:** Se extiende desde la fecha de inicio hasta la fecha en que se obtuvieron los valores finales presentados.
 
 Esta estrategia cuantitativa ha demostrado **retornos anuales consistentemente elevados** y **ratios de Sharpe robustos** en comparación con las estrategias de "Buy & Hold" para los activos analizados. Esto sugiere una **gestión de riesgo favorable** y la capacidad de **superar el rendimiento del mercado** a largo plazo.
