@@ -58,7 +58,7 @@ Este informe presenta los resultados del sistema cuantitativo aplicado sobre tre
 
 - **Tarifa por uso:** 1.000 euros
 - **Método de pago:** PayPal
-- **Cuenta PayPal:** [plleoes@bmail.com](mailto:plleoes@gmail.com)
+- **Cuenta PayPal:** [plleoes@gmail.com](mailto:plleoes@gmail.com)
 - El acceso, ejecución o reproducción del sistema implica la aceptación de estas condiciones y la obligación de abonar la tarifa correspondiente.
 
 ---
